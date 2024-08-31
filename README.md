@@ -2,6 +2,8 @@
 
 The N-Queen Visualizer is an interactive web application designed to visualize the N-Queen problem's solutions using JavaScript, HTML, and CSS. This project allows users to select a board size and visually observe how the N-Queen solution is computed step-by-step.
 
+Live Demo: [N-Queen Visualizer](https://amit-10101.github.io/N-Queen-Visualizer/)
+
 ## Features
 
 -   **Dynamic Board Size**: Users can select the size of the chessboard (from 4x4 to 20x20) to visualize the N-Queen problem.
